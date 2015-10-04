@@ -133,9 +133,9 @@ a.rm, a.com {
 	display:block;
 	margin:0;
 	padding:2px 10px 2px 15px;
-	color:#848383;
+	color:#330033;
 	text-decoration:none;
-	font:normal 13px Arial, Helvetica, sans-serif;
+	font:normal 15px Arial, Helvetica, sans-serif;
 }
 .menu_nav ul li.active a, .menu_nav ul li a:hover {
 	color:#0099ff;
