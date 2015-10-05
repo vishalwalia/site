@@ -9,7 +9,7 @@ body {
 html, .main {
 	padding:0;
 	margin:0;
-	background:#f4d2f4;
+	background:#000033;
 	}
 
 .clr {
@@ -24,7 +24,7 @@ html, .main {
 	padding:20px 0 20px 20px;
 	margin:0 auto;
 	width:950px;
-	background-color: #f4d2f4;
+	background-color: #000033;
 
 }
 
@@ -34,14 +34,14 @@ html, .main {
 }
 h1 {
 	margin:0;
-	padding:5px 0;
-	width:450px;
+	width:950px;
 	color:black;
 	font:normal 46px/1.2em Arial, Helvetica, sans-serif;
 	letter-spacing:-2px;
+	text-align: right;
 }
 h1 a {
-	color:#330033;
+	color:#fefefa;
 	text-decoration:none;
 }
  h1 a:hover {
@@ -64,7 +64,15 @@ h2 {
 	font:normal 24px Arial, Helvetica, sans-serif;
 	padding:0;
 	margin:5px 0;
-	color:#330033;
+	color:#000033;
+}
+
+h6 {
+	font:normal 24px Arial, Helvetica, sans-serif;
+	margin:5px 0;
+	text-align: left;
+	padding: 0 0 0 565px;
+	color:#fefefa;
 }
 p {
 	margin:8px 0;
@@ -212,8 +220,11 @@ a.rm, a.com {
 	background:#fdfdfd;
 }
 #about{
-	
+	}
+#re1{
 }
+#re2{
+}	
 /* Tables */
 table, th, td {
     border: 0.5px solid black;
@@ -294,7 +305,9 @@ ul.ex_menu li a:hover {
 	margin:0 auto;
 	padding:20px 20px;
 	width:930px;
-	background:#f4d2f4;
+	background:transparent;
+	color: white;
+	font-size: 15px;
 	text-align: center;
 }
 .fbg h2 {
