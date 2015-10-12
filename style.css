@@ -79,6 +79,9 @@ p {
 	padding:0 0 8px 0;
 	font:normal 12px/1.8em Arial, Helvetica, sans-serif;
 }
+sup{
+	color: #FF00FF;
+}
 p.spec {
 	text-align:right;
 }
