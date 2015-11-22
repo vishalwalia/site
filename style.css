@@ -46,7 +46,7 @@ h1 a {
 }
  h1 a:hover {
  	color:#0099ff;
-    text-decoration: none;
+ 	text-decoration: none;
 
  }
 h1 small {
@@ -227,6 +227,7 @@ a.rm, a.com {
 #drop{
 	
 }
+#article1{}
 #re1{
 }
 #re2{
