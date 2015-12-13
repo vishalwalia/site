@@ -9,7 +9,7 @@ body {
 html, .main {
 	padding:0;
 	margin:0;
-	background:#000033;
+	background:#000020;
 	}
 
 .clr {
@@ -24,14 +24,16 @@ html, .main {
 	padding:20px 0 20px 20px;
 	margin:0 auto;
 	width:950px;
-	background-color: #000033;
+	background-color: #000020;
 
 }
 
 .logo img {
 	float:left;
-	margin:0 10px 0 0;
+	margin:0 70px 0 0;
+
 }
+
 h1 {
 	margin:0;
 	width:950px;
@@ -120,6 +122,7 @@ a.rm, a.com {
 .header_img img {
 	margin:0 auto;
 	padding:0 0 0 5px;
+
 }
 .menu_nav {
 	margin:14px auto;
@@ -127,11 +130,11 @@ a.rm, a.com {
 	float:left;
 	border:2px solid #e2e3e4;
 	width:930px;
-	background:#fdfdfd;
+	background-image: url(images/bg.jpg);
 }
 .menu_nav ul {
 	list-style:none;
-	width:500px;
+	width:930px;
 	float:left;
 	}
 .menu_nav ul li {
@@ -144,9 +147,9 @@ a.rm, a.com {
 	display:block;
 	margin:0;
 	padding:2px 10px 2px ;
-	color:#330033;
+	color:white;
 	text-decoration:none;
-	font:normal 15px Arial, Helvetica, sans-serif;
+	font:normal 18.5px Arial, Helvetica, sans-serif;
 }
 .menu_nav ul li.active a, .menu_nav ul li a:hover {
 	color:#0099ff;
@@ -281,6 +284,7 @@ ul.sb_menu li {
 	padding:4px 0 4px 12px;
 	width:220px;
 }
+
 ul.ex_menu li {
 	padding:4px 0 8px 12px;
 }
