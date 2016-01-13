@@ -80,6 +80,7 @@ p {
 	margin:8px 0;
 	padding:0 0 8px 0;
 	font:normal 12px/1.8em Arial, Helvetica, sans-serif;
+	text-align: justify;
 }
 sup{
 	color: #FF00FF;
@@ -191,6 +192,7 @@ a.rm, a.com {
 	width:930px;
 	border:2px solid #e2e3e4;
 	background:#fdfdfd;
+	text-align: justify;
 }
 .content .mainbar .article span.butons a {
 	margin:0 5px 0 0;
